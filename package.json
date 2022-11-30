@@ -1,0 +1,26 @@
+{
+  "name": "prime-validate",
+  "version": "1.0.0",
+  "description": "a npm package for efficiently validating prime integer numbers",
+  "main": "prime-validate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samnoon1971/prime-validate.git"
+  },
+  "keywords": [
+    "primt",
+    "algo",
+    "number-theory",
+    "js",
+    "node"
+  ],
+  "author": "samnoon1971",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samnoon1971/prime-validate/issues"
+  },
+  "homepage": "https://github.com/samnoon1971/prime-validate#readme"
+}
